@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+.card{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+li{
+    border: 1px solid rgba(0,0,0,.125);
+    border-collapse: collapse;
+    border-radius: .25rem;
+}
